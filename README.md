@@ -1,5 +1,15 @@
-Proper README
-Integration tests
+1. Proper README
+2. Integration tests    
     1. PIP STOP! How to make running these scripts easier??
-Programatic verification
-Push to GitHub
+3. Programatic verification
+4. Push to GitHub
+
+# About
+
+This is a crowd sourcing app!
+
+# Getting started
+
+## Requirement
+
+## Quickstart
